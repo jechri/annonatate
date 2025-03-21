@@ -1,0 +1,38 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/segIns_020"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "k\u00fcnstler",
+            "purpose": "commenting",
+            "creator": {
+                "id": "jechri",
+                "name": "jechri"
+            },
+            "created": "2025-03-21T13:31:25.570Z",
+            "modified": "2025-03-21T13:31:26.643Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://d.lib.ncsu.edu/collections/catalog/segIns_020/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://d.lib.ncsu.edu/collections/canvas/segIns_020",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=120.00487518310547,8011.1806640625,1101.783332824707,587.8193359375"
+        }
+    },
+    "id": "a1847179-0d4e-4401-b4e9-af8b3854b650.json",
+    "motivation": "commenting"
+}
