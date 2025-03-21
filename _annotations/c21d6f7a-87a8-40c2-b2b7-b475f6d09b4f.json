@@ -1,0 +1,33 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "sonnenfinsternis",
+            "purpose": "commenting",
+            "creator": {
+                "id": "jechri",
+                "name": "jechri"
+            },
+            "created": "2025-03-21T13:24:21.534Z",
+            "modified": "2025-03-21T13:24:24.419Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"58.62408447265625\" cy=\"299.09703063964844\" r=\"26.79533775094479\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c21d6f7a-87a8-40c2-b2b7-b475f6d09b4f.json",
+    "motivation": "commenting"
+}
