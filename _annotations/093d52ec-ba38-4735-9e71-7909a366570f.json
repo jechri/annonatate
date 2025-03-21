@@ -1,0 +1,33 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "esel",
+            "purpose": "commenting",
+            "creator": {
+                "id": "jechri",
+                "name": "jechri"
+            },
+            "created": "2025-03-21T13:25:07.584Z",
+            "modified": "2025-03-21T13:25:08.055Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"138.96956253051758\" cy=\"114.66044235229492\" rx=\"43.600154876708984\" ry=\"22.98831558227539\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "093d52ec-ba38-4735-9e71-7909a366570f.json",
+    "motivation": "commenting"
+}
